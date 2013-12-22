@@ -1,0 +1,5 @@
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\DN-DLLs\DNArgos.dll.config
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\DN-DLLs\DNArgos.dll
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\DN-DLLs\DNArgos.pdb
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\DNMentors\DNArgos\obj\x86\Debug\DNArgos.dll
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\DNMentors\DNArgos\obj\x86\Debug\DNArgos.pdb

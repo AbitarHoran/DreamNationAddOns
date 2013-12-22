@@ -1,0 +1,15 @@
+Z:\dn\DN PROJECTS\opensim-0.7.4-source\bin\Chat-Logger.dll
+Z:\dn\DN PROJECTS\opensim-0.7.4-source\bin\Chat-Logger.pdb
+Z:\dn\DN PROJECTS\opensim-0.7.4-source\addon-modules\Chat-Logger\obj\Debug\Chat-Logger.csprojResolveAssemblyReference.cache
+Z:\dn\DN PROJECTS\opensim-0.7.4-source\addon-modules\Chat-Logger\obj\Debug\Chat-Logger.dll
+Z:\dn\DN PROJECTS\opensim-0.7.4-source\addon-modules\Chat-Logger\obj\Debug\Chat-Logger.pdb
+C:\Users\Abitar\Documents\DN PROJECTS\opensim-0.7.4-source\bin\Chat-Logger.dll
+C:\Users\Abitar\Documents\DN PROJECTS\opensim-0.7.4-source\bin\Chat-Logger.pdb
+C:\Users\Abitar\Documents\DN PROJECTS\opensim-0.7.4-source\addon-modules\Chat-Logger\obj\Debug\Chat-Logger.dll
+C:\Users\Abitar\Documents\DN PROJECTS\opensim-0.7.4-source\addon-modules\Chat-Logger\obj\Debug\Chat-Logger.pdb
+C:\Users\Abitar\Documents\DN PROJECTS\opensim-0.7.4-source\addon-modules\Chat-Logger\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abitar\Documents\DN PROJECTS\opensim\bin\Chat-Logger.dll
+C:\Users\Abitar\Documents\DN PROJECTS\opensim\bin\Chat-Logger.pdb
+C:\Users\Abitar\Documents\DN PROJECTS\opensim\addon-modules\Chat-Logger\obj\Debug\Chat-Logger.dll
+C:\Users\Abitar\Documents\DN PROJECTS\opensim\addon-modules\Chat-Logger\obj\Debug\Chat-Logger.pdb
+C:\Users\Abitar\Documents\DN PROJECTS\opensim\addon-modules\Chat-Logger\obj\Debug\ResolveAssemblyReference.cache

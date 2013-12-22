@@ -1,0 +1,8 @@
+C:\Users\Abitar\Documents\DN PROJECTS\opensim\bin\OpenSimSearch.Modules.dll
+C:\Users\Abitar\Documents\DN PROJECTS\opensim\addon-modules\OpenSimSearch\Modules\obj\Release\OpenSimSearch.Modules.csprojResolveAssemblyReference.cache
+C:\Users\Abitar\Documents\DN PROJECTS\opensim\addon-modules\OpenSimSearch\Modules\obj\Release\OpenSimSearch.Modules.dll
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\DNLibs\bin\Debug\OpenSimSearch.Modules.dll
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\OpenSimSearch\Modules\obj\Release\OpenSimSearch.Modules.dll
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\OpenSimSearch\DN-DLLs\OpenSimSearch.Modules.dll
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\OpenSimSearch\Modules\obj\Release\OpenSimSearch.Modules.csprojResolveAssemblyReference.cache
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\DN-DLLs\OpenSimSearch.Modules.dll

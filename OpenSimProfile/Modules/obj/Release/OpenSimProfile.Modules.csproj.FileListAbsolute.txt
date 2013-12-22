@@ -1,0 +1,4 @@
+C:\Users\Abitar\Documents\DN PROJECTS\opensim\bin\OpenSimProfile.Modules.dll
+C:\Users\Abitar\Documents\DN PROJECTS\opensim\addon-modules\OpenSimProfile\Modules\obj\Release\OpenSimProfile.Modules.csprojResolveAssemblyReference.cache
+C:\Users\Abitar\Documents\DN PROJECTS\opensim\addon-modules\OpenSimProfile\Modules\obj\Release\OpenSimProfile.Modules.dll
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\OpenSimProfile\Modules\obj\Release\OpenSimProfile.Modules.csprojResolveAssemblyReference.cache

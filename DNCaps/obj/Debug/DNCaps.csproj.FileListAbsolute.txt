@@ -1,0 +1,7 @@
+C:\Users\Abitar\Documents\DN PROJECTS\local\DNLib\DNCaps.dll
+C:\Users\Abitar\Documents\DN PROJECTS\local\DNLib\DNCaps.pdb
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\DN-Addins\DNCaps.dll
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\DN-Addins\DNCaps.pdb
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\BaseProject\DNCaps\obj\Debug\DNCaps.csprojResolveAssemblyReference.cache
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\BaseProject\DNCaps\obj\Debug\DNCaps.dll
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\BaseProject\DNCaps\obj\Debug\DNCaps.pdb

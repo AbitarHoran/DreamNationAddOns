@@ -1,0 +1,7 @@
+C:\Users\Abitar\Documents\DN PROJECTS\local\DNLib\DNMentors.dll
+C:\Users\Abitar\Documents\DN PROJECTS\local\DNLib\DNMentors.pdb
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\DN-Addins\DNMentors.dll
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\DN-Addins\DNMentors.pdb
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\DNMentors\obj\Debug\DNMentors.csprojResolveAssemblyReference.cache
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\DNMentors\obj\Debug\DNMentors.dll
+C:\Users\Abitar\Documents\DN PROJECTS\DNTOOLS\DNMentors\obj\Debug\DNMentors.pdb
